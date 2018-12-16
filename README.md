@@ -10,9 +10,6 @@ We provide a companion for these peeople. It helps them to improve there conditi
 
 
 
-[TOC]
-
-
 
 ## 1. Problem Solved ##
 
@@ -72,6 +69,8 @@ Things that we have tried to replicate the therapy :
 
 ![](img/benifits.png)
 
+
+
 ## 3. Technology Used ##
 
 1. Microsoft Azure ( Free Student'scredit worth $100 )
@@ -80,11 +79,31 @@ Things that we have tried to replicate the therapy :
 4. News API
 5. Github 
 
+
+
 ## 4. Future Improvement ##
 
 In this prototype most of the things are hard-coded. We can extend this project by including data driven processes. Also the conversation mst be user specific, for that we require data about the person's history, interest, medical condition etc. Also many more use case can be integrated in game mode. 
 
-## 5. Author ##
+
+
+## 5. Website ## 
+
+![](img/site.png)
+
+
+
+
+
+## 6. Demo (Autism) ##
+
+[![Watch the video](img/video.png)](https://youtu.be/zPgMC_xKNjk)
+
+
+
+
+
+## 7. Author ##
 
 [Vedic Partap](http://cse.iitkgp.ac.in/~vedicp/)
 
