@@ -10,10 +10,6 @@ We provide a companion for these peeople. It helps them to improve there conditi
 
 
 
-[TOC]
-
-
-
 ## 1. Problem Solved ##
 
 1. Autism
