@@ -89,7 +89,7 @@ In this prototype most of the things are hard-coded. We can extend this project 
 
 ## 5. Website ## 
 
-![](img/site.png)
+[![](img/site.png)](https://vedic-partap.github.io/iTalk2Please/)
 
 
 
