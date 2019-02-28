@@ -4,6 +4,8 @@
 
 > **Enhancing lives today and accelerating a spectrum of solutions for tomorrow**
 
+**[NOT IN WORKING STAGE DUE TO EXPIREATION OF MICROSFT AZURE CREDITS]**
+
 Undoubtedly, Alzheimer and Autism are problems of concern in today’s world. Moreover, hidden fear makes autistic people more expressive to a robot than to human beings.
 
 We provide a companion for these peeople. It helps them to improve there condition and come more closer to their loved ones. 
